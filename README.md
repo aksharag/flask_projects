@@ -8,4 +8,6 @@
 6. `python app.py`
 7. copy paste http://127.0.0.1:5000/ in browser
 
+(python version: 3.7.2)
+
 credits: https://medium.com/@nutanbhogendrasharma/deploy-machine-learning-model-with-flask-on-heroku-cd079b692b1d
